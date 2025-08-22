@@ -1,0 +1,11 @@
+{
+  "name": "module-api-database",
+  "version": "1.0.0",
+  "description": "Module Api Database",
+  "author": "Marcos Ezequiel",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "sequelize": "^6.37.7"
+  }
+}
